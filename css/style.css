@@ -1,0 +1,23 @@
+
+body {
+    background: rgb(126, 138, 143);
+}
+.first {
+    display: block;
+}
+nav {
+    color: black;
+}
+.main {
+    color: aliceblue;
+}
+.name  {
+    color: gainsboro;
+}
+.next {
+    color: gainsboro;
+    width: 7%;
+}
+div {
+    display: block;
+}
